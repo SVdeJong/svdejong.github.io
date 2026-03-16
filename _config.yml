@@ -1,6 +1,9 @@
 theme: minima
 minima:
   skin: solarized
+  nav_pages:
+    - index.md
+    - portfolio.md
 title: Sharon de Jong's personal blog
 author: Sharon de Jong
 description: This is where I share my portfolio and my learnings during its creation
