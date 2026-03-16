@@ -1,5 +1,6 @@
 theme: minima
-skin: solarized
+minima:
+  skin: solarized
 title: Sharon de Jong's personal blog
 author: Sharon de Jong
 description: This is where I share my portfolio and my learnings during its creation
