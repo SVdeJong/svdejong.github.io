@@ -4,6 +4,10 @@ minima:
   nav_pages:
     - index.md
     - portfolio.md
+  social_links:
+    - title: Sharon on LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/sharondejong/"
 title: Sharon de Jong's personal blog
 author: Sharon de Jong
 description: This is where I share my portfolio and my learnings during its creation
